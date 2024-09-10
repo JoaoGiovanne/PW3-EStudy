@@ -24,7 +24,7 @@ public class Monitor {
     @Column(name = "TX_FOTO")
     private String foto_monitor;
 
-    @Column(name = "TX_WPP")
+    @Column(name = "TX_WHATSAPP")
     private String whatsapp_monitor;
 
     @Column(name = "TX_EMAIL")
