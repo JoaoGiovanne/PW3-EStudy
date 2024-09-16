@@ -1,4 +1,5 @@
 create database pw3_study;
+
 use pw3_study;
 
 CREATE TABLE TBL_DISCIPLINA(
