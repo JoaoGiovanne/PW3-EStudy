@@ -3,10 +3,7 @@ package br.com.etechoracio.Pw3_Study.entity;
 import jakarta.persistence.*;
 import lombok.Getter;
 import lombok.Setter;
-
-import java.time.DateTimeException;
 import java.time.LocalDateTime;
-import java.util.Date;
 
 @Getter
 @Setter

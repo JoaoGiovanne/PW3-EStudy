@@ -1,7 +1,5 @@
 package br.com.etechoracio.Pw3_Study.controller;
 
-import java.util.List;
-
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;
@@ -16,6 +14,8 @@ import org.springframework.web.bind.annotation.RestController;
 
 import br.com.etechoracio.Pw3_Study.Service.MonitorService;
 import br.com.etechoracio.Pw3_Study.dto.MonitorResponseDTO;
+
+import java.util.List;
 
 @RestController
 @RequestMapping("/monitor")
